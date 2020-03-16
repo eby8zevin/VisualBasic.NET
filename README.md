@@ -1,3 +1,2 @@
-Intent Implicit
-
+# android-intent receive-implicit
 Receive Only
