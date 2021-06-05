@@ -1,5 +1,5 @@
-# android-receive-implicit
-Receive Implicit Intent - Android Studio
+# android-Receive-Implicit
+Received Implicit Intent - Android Studio
 
 The Features :
 - Receive URL
