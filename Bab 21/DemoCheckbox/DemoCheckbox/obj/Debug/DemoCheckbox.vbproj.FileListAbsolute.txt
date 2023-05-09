@@ -1,0 +1,21 @@
+D:\Visual Studio Projects\VB\DemoCheckbox\DemoCheckbox\bin\Debug\DemoCheckbox.exe.config
+D:\Visual Studio Projects\VB\DemoCheckbox\DemoCheckbox\bin\Debug\DemoCheckbox.exe
+D:\Visual Studio Projects\VB\DemoCheckbox\DemoCheckbox\bin\Debug\DemoCheckbox.pdb
+D:\Visual Studio Projects\VB\DemoCheckbox\DemoCheckbox\bin\Debug\DemoCheckbox.xml
+D:\Visual Studio Projects\VB\DemoCheckbox\DemoCheckbox\obj\Debug\DemoCheckbox.Form1.resources
+D:\Visual Studio Projects\VB\DemoCheckbox\DemoCheckbox\obj\Debug\DemoCheckbox.Resources.resources
+D:\Visual Studio Projects\VB\DemoCheckbox\DemoCheckbox\obj\Debug\DemoCheckbox.vbproj.GenerateResource.Cache
+D:\Visual Studio Projects\VB\DemoCheckbox\DemoCheckbox\obj\Debug\DemoCheckbox.exe
+D:\Visual Studio Projects\VB\DemoCheckbox\DemoCheckbox\obj\Debug\DemoCheckbox.xml
+D:\Visual Studio Projects\VB\DemoCheckbox\DemoCheckbox\obj\Debug\DemoCheckbox.pdb
+C:\New folder\source code\Bab 21\DemoCheckbox\DemoCheckbox\bin\Debug\DemoCheckbox.exe.config
+C:\New folder\source code\Bab 21\DemoCheckbox\DemoCheckbox\obj\Debug\DemoCheckbox.exe
+C:\New folder\source code\Bab 21\DemoCheckbox\DemoCheckbox\obj\Debug\DemoCheckbox.xml
+C:\New folder\source code\Bab 21\DemoCheckbox\DemoCheckbox\obj\Debug\DemoCheckbox.pdb
+C:\New folder\source code\Bab 21\DemoCheckbox\DemoCheckbox\bin\Debug\DemoCheckbox.exe
+C:\New folder\source code\Bab 21\DemoCheckbox\DemoCheckbox\bin\Debug\DemoCheckbox.pdb
+C:\New folder\source code\Bab 21\DemoCheckbox\DemoCheckbox\bin\Debug\DemoCheckbox.xml
+C:\New folder\source code\Bab 21\DemoCheckbox\DemoCheckbox\obj\Debug\DemoCheckbox.vbprojResolveAssemblyReference.cache
+C:\New folder\source code\Bab 21\DemoCheckbox\DemoCheckbox\obj\Debug\DemoCheckbox.Form1.resources
+C:\New folder\source code\Bab 21\DemoCheckbox\DemoCheckbox\obj\Debug\DemoCheckbox.Resources.resources
+C:\New folder\source code\Bab 21\DemoCheckbox\DemoCheckbox\obj\Debug\DemoCheckbox.vbproj.GenerateResource.Cache
