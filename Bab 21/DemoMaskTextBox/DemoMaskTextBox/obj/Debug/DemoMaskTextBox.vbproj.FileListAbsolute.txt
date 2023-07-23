@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\VB\DemoMaskTextBox\DemoMaskTextBox\bin\Debug\DemoMaskTextBox.exe.config
+D:\Visual Studio Projects\VB\DemoMaskTextBox\DemoMaskTextBox\bin\Debug\DemoMaskTextBox.exe
+D:\Visual Studio Projects\VB\DemoMaskTextBox\DemoMaskTextBox\bin\Debug\DemoMaskTextBox.pdb
+D:\Visual Studio Projects\VB\DemoMaskTextBox\DemoMaskTextBox\bin\Debug\DemoMaskTextBox.xml
+D:\Visual Studio Projects\VB\DemoMaskTextBox\DemoMaskTextBox\obj\Debug\DemoMaskTextBox.MainForm.resources
+D:\Visual Studio Projects\VB\DemoMaskTextBox\DemoMaskTextBox\obj\Debug\DemoMaskTextBox.Resources.resources
+D:\Visual Studio Projects\VB\DemoMaskTextBox\DemoMaskTextBox\obj\Debug\DemoMaskTextBox.vbproj.GenerateResource.Cache
+D:\Visual Studio Projects\VB\DemoMaskTextBox\DemoMaskTextBox\obj\Debug\DemoMaskTextBox.exe
+D:\Visual Studio Projects\VB\DemoMaskTextBox\DemoMaskTextBox\obj\Debug\DemoMaskTextBox.xml
+D:\Visual Studio Projects\VB\DemoMaskTextBox\DemoMaskTextBox\obj\Debug\DemoMaskTextBox.pdb
