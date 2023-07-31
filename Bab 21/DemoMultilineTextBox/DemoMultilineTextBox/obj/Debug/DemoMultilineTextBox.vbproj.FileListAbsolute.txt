@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\VB\DemoMultilineTextBox\DemoMultilineTextBox\bin\Debug\DemoMultilineTextBox.exe.config
+D:\Visual Studio Projects\VB\DemoMultilineTextBox\DemoMultilineTextBox\bin\Debug\DemoMultilineTextBox.exe
+D:\Visual Studio Projects\VB\DemoMultilineTextBox\DemoMultilineTextBox\bin\Debug\DemoMultilineTextBox.pdb
+D:\Visual Studio Projects\VB\DemoMultilineTextBox\DemoMultilineTextBox\bin\Debug\DemoMultilineTextBox.xml
+D:\Visual Studio Projects\VB\DemoMultilineTextBox\DemoMultilineTextBox\obj\Debug\DemoMultilineTextBox.Form1.resources
+D:\Visual Studio Projects\VB\DemoMultilineTextBox\DemoMultilineTextBox\obj\Debug\DemoMultilineTextBox.Resources.resources
+D:\Visual Studio Projects\VB\DemoMultilineTextBox\DemoMultilineTextBox\obj\Debug\DemoMultilineTextBox.vbproj.GenerateResource.Cache
+D:\Visual Studio Projects\VB\DemoMultilineTextBox\DemoMultilineTextBox\obj\Debug\DemoMultilineTextBox.exe
+D:\Visual Studio Projects\VB\DemoMultilineTextBox\DemoMultilineTextBox\obj\Debug\DemoMultilineTextBox.xml
+D:\Visual Studio Projects\VB\DemoMultilineTextBox\DemoMultilineTextBox\obj\Debug\DemoMultilineTextBox.pdb
