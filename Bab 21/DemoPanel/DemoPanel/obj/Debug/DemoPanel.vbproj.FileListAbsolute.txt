@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\VB\DemoPanel\DemoPanel\bin\Debug\DemoPanel.exe.config
+D:\Visual Studio Projects\VB\DemoPanel\DemoPanel\bin\Debug\DemoPanel.exe
+D:\Visual Studio Projects\VB\DemoPanel\DemoPanel\bin\Debug\DemoPanel.pdb
+D:\Visual Studio Projects\VB\DemoPanel\DemoPanel\bin\Debug\DemoPanel.xml
+D:\Visual Studio Projects\VB\DemoPanel\DemoPanel\obj\Debug\DemoPanel.Resources.resources
+D:\Visual Studio Projects\VB\DemoPanel\DemoPanel\obj\Debug\DemoPanel.vbproj.GenerateResource.Cache
+D:\Visual Studio Projects\VB\DemoPanel\DemoPanel\obj\Debug\DemoPanel.exe
+D:\Visual Studio Projects\VB\DemoPanel\DemoPanel\obj\Debug\DemoPanel.xml
+D:\Visual Studio Projects\VB\DemoPanel\DemoPanel\obj\Debug\DemoPanel.pdb
+D:\Visual Studio Projects\VB\DemoPanel\DemoPanel\obj\Debug\DemoPanel.MainForm.resources
