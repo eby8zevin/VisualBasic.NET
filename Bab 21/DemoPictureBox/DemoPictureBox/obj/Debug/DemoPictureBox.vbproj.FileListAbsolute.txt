@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\VB\DemoPictureBox\DemoPictureBox\bin\Debug\DemoPictureBox.exe.config
+D:\Visual Studio Projects\VB\DemoPictureBox\DemoPictureBox\bin\Debug\DemoPictureBox.exe
+D:\Visual Studio Projects\VB\DemoPictureBox\DemoPictureBox\bin\Debug\DemoPictureBox.pdb
+D:\Visual Studio Projects\VB\DemoPictureBox\DemoPictureBox\bin\Debug\DemoPictureBox.xml
+D:\Visual Studio Projects\VB\DemoPictureBox\DemoPictureBox\obj\Debug\DemoPictureBox.Form1.resources
+D:\Visual Studio Projects\VB\DemoPictureBox\DemoPictureBox\obj\Debug\DemoPictureBox.Resources.resources
+D:\Visual Studio Projects\VB\DemoPictureBox\DemoPictureBox\obj\Debug\DemoPictureBox.vbproj.GenerateResource.Cache
+D:\Visual Studio Projects\VB\DemoPictureBox\DemoPictureBox\obj\Debug\DemoPictureBox.exe
+D:\Visual Studio Projects\VB\DemoPictureBox\DemoPictureBox\obj\Debug\DemoPictureBox.xml
+D:\Visual Studio Projects\VB\DemoPictureBox\DemoPictureBox\obj\Debug\DemoPictureBox.pdb
