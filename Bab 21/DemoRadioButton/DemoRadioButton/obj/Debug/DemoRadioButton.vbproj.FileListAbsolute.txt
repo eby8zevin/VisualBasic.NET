@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\VB\DemoRadioButton\DemoRadioButton\bin\Debug\DemoRadioButton.exe.config
+D:\Visual Studio Projects\VB\DemoRadioButton\DemoRadioButton\bin\Debug\DemoRadioButton.exe
+D:\Visual Studio Projects\VB\DemoRadioButton\DemoRadioButton\bin\Debug\DemoRadioButton.pdb
+D:\Visual Studio Projects\VB\DemoRadioButton\DemoRadioButton\bin\Debug\DemoRadioButton.xml
+D:\Visual Studio Projects\VB\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.Form1.resources
+D:\Visual Studio Projects\VB\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.Resources.resources
+D:\Visual Studio Projects\VB\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.vbproj.GenerateResource.Cache
+D:\Visual Studio Projects\VB\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.exe
+D:\Visual Studio Projects\VB\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.xml
+D:\Visual Studio Projects\VB\DemoRadioButton\DemoRadioButton\obj\Debug\DemoRadioButton.pdb
