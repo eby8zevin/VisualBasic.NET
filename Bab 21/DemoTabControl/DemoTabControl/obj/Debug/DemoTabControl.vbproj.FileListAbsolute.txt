@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\VB\DemoTabControl\DemoTabControl\bin\Debug\DemoTabControl.exe.config
+D:\Visual Studio Projects\VB\DemoTabControl\DemoTabControl\bin\Debug\DemoTabControl.exe
+D:\Visual Studio Projects\VB\DemoTabControl\DemoTabControl\bin\Debug\DemoTabControl.pdb
+D:\Visual Studio Projects\VB\DemoTabControl\DemoTabControl\bin\Debug\DemoTabControl.xml
+D:\Visual Studio Projects\VB\DemoTabControl\DemoTabControl\obj\Debug\DemoTabControl.MainForm.resources
+D:\Visual Studio Projects\VB\DemoTabControl\DemoTabControl\obj\Debug\DemoTabControl.Resources.resources
+D:\Visual Studio Projects\VB\DemoTabControl\DemoTabControl\obj\Debug\DemoTabControl.vbproj.GenerateResource.Cache
+D:\Visual Studio Projects\VB\DemoTabControl\DemoTabControl\obj\Debug\DemoTabControl.exe
+D:\Visual Studio Projects\VB\DemoTabControl\DemoTabControl\obj\Debug\DemoTabControl.xml
+D:\Visual Studio Projects\VB\DemoTabControl\DemoTabControl\obj\Debug\DemoTabControl.pdb
