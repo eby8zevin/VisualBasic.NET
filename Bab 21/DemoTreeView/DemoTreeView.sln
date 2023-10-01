@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DemoTreeView", "DemoTreeView\DemoTreeView.vbproj", "{AA474FCA-AE05-4D9A-BF55-1B75692F12C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA474FCA-AE05-4D9A-BF55-1B75692F12C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA474FCA-AE05-4D9A-BF55-1B75692F12C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA474FCA-AE05-4D9A-BF55-1B75692F12C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA474FCA-AE05-4D9A-BF55-1B75692F12C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
