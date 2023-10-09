@@ -1,0 +1,10 @@
+D:\Visual Studio Projects\VB\DemoWebBrowser\DemoWebBrowser\bin\Debug\DemoWebBrowser.exe.config
+D:\Visual Studio Projects\VB\DemoWebBrowser\DemoWebBrowser\bin\Debug\DemoWebBrowser.exe
+D:\Visual Studio Projects\VB\DemoWebBrowser\DemoWebBrowser\bin\Debug\DemoWebBrowser.pdb
+D:\Visual Studio Projects\VB\DemoWebBrowser\DemoWebBrowser\bin\Debug\DemoWebBrowser.xml
+D:\Visual Studio Projects\VB\DemoWebBrowser\DemoWebBrowser\obj\Debug\DemoWebBrowser.Resources.resources
+D:\Visual Studio Projects\VB\DemoWebBrowser\DemoWebBrowser\obj\Debug\DemoWebBrowser.vbproj.GenerateResource.Cache
+D:\Visual Studio Projects\VB\DemoWebBrowser\DemoWebBrowser\obj\Debug\DemoWebBrowser.exe
+D:\Visual Studio Projects\VB\DemoWebBrowser\DemoWebBrowser\obj\Debug\DemoWebBrowser.xml
+D:\Visual Studio Projects\VB\DemoWebBrowser\DemoWebBrowser\obj\Debug\DemoWebBrowser.pdb
+D:\Visual Studio Projects\VB\DemoWebBrowser\DemoWebBrowser\obj\Debug\DemoWebBrowser.MainForm.resources
